@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+.contin{
+	float:left;
+	width: 1900px;
+	min-height: 70vh;
+	background:#FFFFFF;
+	margin-top: 50px;
+	margin-left:10px;
+	border:1px solid #E6E6E6;
+	padding:0px;
+	border-radius:5px 5px 5px 5px;
+}
+.a2{
+	color:forestgreen; 
+   width:20px;
+   text-decoration:none;
+   margin:13px;
+   font-size: 18px;
+} 
+.all-pro-head{
+	 text-transform: capitalize;
+    font-size: 22px;
+    font-weight: bold;
+    color: #393939;
+	font-family: "Poppins", sans-serif;
+	float: left;
+	padding-left: 50px;
+	padding-top: 30px;
+}
+.filter-1{
+	width: 1500px;
+	height: 50px;
+	margin-top: 60px;
+	margin-left: 0px;	
+	margin-bottom: 50px;
+}
+.filter-2{
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+select{
+	font-family: "Poppins", sans-serif;
+	color:#868686;
+	 text-align: center;
+}
+.statuswise{
+  position:relative;
+  display: inline-block;
+  height: 50px;
+  width: 200px;
+  border: none;
+  outline:none;
+  font-size: 18px;
+
+}
+.yearwise{
+  position:relative;
+  display: inline-block;
+  height: 50px;
+  width: 200px;
+  border: none;
+  outline:none;
+  font-size: 18px;
+  text-align: center;
+	margin-left: 70px;
+}
+.domainwise{
+ position:relative;
+  display: inline-block;
+  height: 50px;
+  width: 200px;
+  border: none;
+  outline:none;
+  font-size: 18px;
+  text-align: center;
+		margin-left: 70px;
+}
+.sub{
+	position:relative;
+  display: inline-block;
+  height: 50px;
+  width: 100px;
+  border: none;
+  outline:none;
+  font-size: 18px;
+  text-align: center;
+	font-family: "Poppins", sans-serif;
+	color:#868686;
+	background: #FFFFFF;
+
+}
+table {
+  width: 1800px;
+	font-family: "Poppins", sans-serif;
+  border-collapse: collapse;
+  margin-left: 35px;
+  margin-top: 35px;	
+}
+th{
+  height: 50px;
+  vertical-align: center;
+  text-align: center;
+  text-transform: uppercase;	
+}
+td{
+  vertical-align: center;
+  text-align: center;
+  color:#868686;
+  font-size: 17px;
+}
+.tr-shadow{
+	height: 40px;
+	background: #FFFFFF;
+}
+.spacer{
+	height: 10px;
+	background: #E8E8E8; 
+}
+.column{
+	width: 190px;
+  text-align:center;
+}	
+.column2{
+	border-bottom:1px solid #FFFFFF;
+}
+.column4{
+	color: cornflowerblue;
+}
+.column11 a{
+	border-bottom-color:#FFFFFF;
+}
+.column7{
+	color: red ;
+}
